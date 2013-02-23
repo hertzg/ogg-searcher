@@ -1,0 +1,7 @@
+{
+	"uuid": "ogg-searcher@hertzg.github.com",
+	"name": "OGG.Ge Search Provider",
+	"description": "Provide OGG.GE search results in overview",
+	"shell-version": ["3.4", "3.5", "3.6"],
+	"url": "https://github.com/hertzg/ogg-searcher"
+}
